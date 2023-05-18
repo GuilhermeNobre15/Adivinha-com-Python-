@@ -1,4 +1,4 @@
-## Adivinha-com-Python 
+## Adivinha com Python 
 
 ## Objetivo:
 * Um jogo que estimula a logica, percistencia e paciencia 
